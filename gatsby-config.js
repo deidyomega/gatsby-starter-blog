@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `The Satanic Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Omega`,
+      summary: `A guy learning about The Satanic Temple, and documenting his findings.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Learning about The Satanic Temple`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `deidyomega`,
     },
   },
   plugins: [
